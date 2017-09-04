@@ -43,6 +43,7 @@ class Child < Person
 
 end
 
+
 john = Person.new('John', 'Smith', '18/05/1986')
 jane = Child.new('Jane', 'Smith', '01/01/2011', "1st")
 
