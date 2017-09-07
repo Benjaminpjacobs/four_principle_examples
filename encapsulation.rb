@@ -17,6 +17,7 @@ end
 
 john = Person.new('John', 'Smith', '18/05/1986')
 
+
 john.first_name # => 'John'
 john.last_name # => 'Smith'
 john.birthday # => 'May 18, 1986'
